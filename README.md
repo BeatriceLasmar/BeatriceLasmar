@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BeatriceLasmar
 - 👀 I’m interested in Programming, Tech Law, LGPD (Brazil), Compliance, Life Experiences
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on new experiences and share knowledge
+- 💞️ I’m looking to collaborate on New Experiences and Share Knowledge
 - 📫 How to reach me: anabeatricebraga@gmail.com
 
 <!---
